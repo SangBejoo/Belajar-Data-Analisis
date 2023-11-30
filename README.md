@@ -17,7 +17,7 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
 
 - **/dataset**: Merupakan Direktori Projek yang terdiri atas dataset yang berformat .csv
 - **/streamlit**: Terdiri atas file main.py yang merupakan kode utama dalam pembuatan visualisasi website
-- **ayubsubagiya@gmail.com.ipynb**: File yang digunakan untuk melakukan analisis data.
+- **ayubsubagiya@gmail.ipynb**: File yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
 
